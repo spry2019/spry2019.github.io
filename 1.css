@@ -1,0 +1,71 @@
+.header {
+	position: absolute;
+	height: 18%;
+	width: 95%;
+	top: 2%;
+	background-image: url(bckgr.jpg);
+	background-position: center center;
+	left: 2.5%;
+	font-size: 36px;
+	text-decoration: blink;
+	font-weight: bolder;
+	font-variant: small-caps;
+	text-transform: uppercase;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	padding: 0px;
+	background-repeat: repeat-x;
+}
+#vclad {
+	height: 45%;
+	width: 47%;
+	top: auto;
+	background-color: #EEE;
+	padding: 0%;
+	margin: 1%;
+	left: 1.5%;
+	position: absolute;
+}
+
+body {
+	background-image: url(tools.png);
+	background-repeat: repeat;
+	background-position: center center;
+	background-attachment: scroll;
+	font-family: "Courier New", Courier, monospace;
+	text-transform: capitalize;
+}
+#menu {
+	position: absolute;
+	height: 10%;
+	width: 95%;
+	left: 2.5%;
+	top: 22%;
+	text-align: left;
+}
+#accord {
+	height: 45%;
+	width: 47%;
+	top: auto;
+	padding: 0%;
+	background-color: #EEE;
+	margin: 1%;
+	position: absolute;
+	right: 1.5%;
+}
+#svor {
+	background-color: #EEE;
+	height: auto;
+	width: 95%;
+	left: 2.5%;
+	top: 35%;
+	font-family: "Courier New", Courier, monospace;
+	position: relative;
+}
+
+
+.header div {
+	color: #FFF;
+}

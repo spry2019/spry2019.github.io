@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Документ без названия</title>
+<!-- TemplateEndEditable -->
+<link href="../1.css" rel="stylesheet" type="text/css" />
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<script src="../SpryAssets/SpryAccordion.js" type="text/javascript"></script>
+<script src="../SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
+<script src="../SpryAssets/SpryCollapsiblePanel.js" type="text/javascript"></script>
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<link href="../SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css" />
+<link href="../SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css" />
+<link href="../SpryAssets/SpryCollapsiblePanel.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="header">
+  <div align="center">
+    <p>ОБ'ЄКТИ ПАНЕЛІ spry</p>
+</div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div id="menu">
+  <ul id="MenuBar1" class="MenuBarHorizontal">
+    <li><a class="MenuBarItemSubmenu" href="#">Элемент 1</a>
+      <ul>
+        <li><a href="#">Элемент 1.1</a></li>
+        <li><a href="#">Элемент 1.2</a></li>
+        <li><a href="#">Элемент 1.3</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Элемент 2</a></li>
+    <li><a class="MenuBarItemSubmenu" href="#">Элемент 3</a>
+      <ul>
+        <li><a class="MenuBarItemSubmenu" href="#">Элемент 3.1</a>
+          <ul>
+            <li><a href="#">Элемент 3.1.1</a></li>
+            <li><a href="#">Элемент 3.1.2</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Элемент 3.2</a></li>
+        <li><a href="#">Элемент 3.3</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Элемент 4</a></li>
+  </ul>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp; </p>
+<p>&nbsp; </p>
+<div id="svor">
+  <div id="CollapsiblePanel1" class="CollapsiblePanel">
+    <div class="CollapsiblePanelTab" tabindex="0">Информатика</div>
+    <div class="CollapsiblePanelContent">
+      <p><strong>Информа́тика</strong> (<a href="https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a> <span lang="fr" xml:lang="fr">Informatique</span>; <a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" xml:lang="en">Computer science</span>) — <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Наука">наука</a> о методах и процессах сбора, хранения, обработки, передачи, анализа и оценки <a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Информация">информации</a> с применением компьютерных технологий, обеспечивающих возможность её использования для принятия решений<a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0#cite_note-_469f4a3e8fa224a6-1">[1]</a>.</p>
+      <p>Информатика включает дисциплины, относящиеся к обработке информации в <a href="https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0" title="Вычислительная машина">вычислительных машинах</a> и <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" title="Компьютерная сеть">вычислительных сетях</a>: как <a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D1%8F" title="Абстракция">абстрактные</a>, вроде анализа <a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм">алгоритмов</a>, так и конкретные, например разработка <a href="https://ru.wikipedia.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Языки программирования">языков программирования</a> и <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Протокол передачи данных">протоколов передачи данных</a>.</p>
+      <p>Темами исследований в информатике являются вопросы: что можно, а что нельзя реализовать в <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0" title="Компьютерная программа">программах</a> и <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="База данных">базах данных</a> (<a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8" title="Теория вычислимости">теория вычислимости</a> и <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82" title="Искусственный интеллект">искусственный интеллект</a>), каким образом можно решать специфические вычислительные и информационные задачи с максимальной эффективностью (<a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9" title="Теория сложности вычислений">теория сложности вычислений</a>), в каком виде следует хранить и восстанавливать информацию специфического вида (<a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Структура данных">структуры</a> и <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="База данных">базы данных</a>), как программы и люди должны <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5" title="Взаимодействие">взаимодействовать</a> друг с другом (<a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F" title="Интерфейс пользователя">пользовательский интерфейс</a> и языки программирования и <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9" title="Представление знаний">представление знаний</a>) и т. п.</p>
+    </div>
+  </div>
+</div>
+<div id="vclad">
+  <div id="TabbedPanels1" class="TabbedPanels">
+    <ul class="TabbedPanelsTabGroup">
+      <li class="TabbedPanelsTab" tabindex="0">Смартфон</li>
+      <li class="TabbedPanelsTab" tabindex="0">Компьютер</li>
+      <li class="TabbedPanelsTab" tabindex="0">Ноутбук</li>
+    </ul>
+    <div class="TabbedPanelsContentGroup">
+      <div class="TabbedPanelsContent"><img src="../smartphone_018.png" width="150" height="150" align="left" />
+        <p><strong>Смартфо́н</strong> (<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" xml:lang="en">smartphone</span> — умный телефон) — <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD" title="Сотовый телефон">мобильный телефон</a>, дополненный функциональностью <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Карманный персональный компьютер">карманного персонального компьютера</a>.</p>
+        <p>Также <strong>коммуникатор</strong> (<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" xml:lang="en">communicator, PDA phone</span>) — карманный персональный компьютер, дополненный функциональностью мобильного телефона.</p></div>
+      <div class="TabbedPanelsContent"><img src="../kompjuter2.png" width="150" height="150" align="left" /><strong>Компью́тер</strong> (<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" xml:lang="en">computer</span>, МФА: <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[kəmˈpjuː.tə(ɹ)]</a><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80#cite_note-1">[1]</a> — «вычислитель») — устройство или система, способная выполнять заданную, чётко определённую, изменяемую последовательность операций. Это чаще всего операции численных расчётов и манипулирования данными, однако сюда относятся и операции <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B2%D0%BE%D0%B4-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4" title="Ввод-вывод">ввода-вывода</a>. Описание последовательности операций называется <em><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0" title="Компьютерная программа">программой</a></em><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80#cite_note-2">[2]</a>.</div>
+      <div class="TabbedPanelsContent"><strong><img src="../laptop_PNG5940.png" width="150" height="150" align="left" />Ноутбук</strong> (<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" xml:lang="en">notebook</span> — блокнот, портативный ПК) — переносной <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Персональный компьютер">персональный компьютер</a>, в корпусе которого объединены типичные компоненты ПК, включая <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BF%D0%BB%D0%B5%D0%B9" title="Дисплей">дисплей</a>, <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Клавиатура">клавиатуру</a> и устройство указания (обычно сенсорная панель или <a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%87%D0%BF%D0%B0%D0%B4" title="Тачпад">тачпад</a>), а также <a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D0%B8" title="Аккумуляторные батареи">аккумуляторные батареи</a>. Ноутбуки отличаются небольшими размерами и весом, время автономной работы ноутбуков варьируется в пределах от 2 до 15 часов.</div>
+    </div>
+  </div>
+</div>
+<div id="accord"><!-- TemplateBeginEditable name="EditRegion3" -->
+  <div id="Accordion1" class="Accordion" tabindex="0">
+    <div class="AccordionPanel">
+      <div class="AccordionPanelTab">Основные теги</div>
+      <div class="AccordionPanelContent">
+        <table border="1" cellspacing="0" cellpadding="5">
+          <tbody>
+            <tr>
+              <td valign="top" align="right"><strong>&lt;html&gt;&lt;/html&gt;</strong></td>
+              <td align="left"><p>Указывает программе просмотра страниц, что это HTML документ.</p></td>
+            </tr>
+            <tr>
+              <td valign="top" align="right"><strong>&lt;head&gt;&lt;/head&gt;</strong></td>
+              <td align="left"><p>Определяет место, где помещается различная информация не отображаемая в теле документа. Здесь располагается тег названия документа и теги для поисковых машин.</p></td>
+            </tr>
+            <tr>
+              <td valign="top" align="right"><strong>&lt;body&gt;&lt;/body&gt;</strong></td>
+              <td align="left"><p>Определяет видимую часть документа</p></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="AccordionPanel">
+      <div class="AccordionPanelTab">Теги оглавления</div>
+      <div class="AccordionPanelContent">
+        <table border="1" cellspacing="0" cellpadding="5">
+          <tbody>
+            <tr>
+              <td valign="top" align="right"><strong>&lt;title&gt;&lt;/title&gt;</strong></td>
+              <td align="left"><p>Помещает название документа в оглавление программы просмотра страниц</p></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="AccordionPanel">
+      <div class="AccordionPanelTab"><strong>Атрибуты тела документа</strong></div>
+      <div class="AccordionPanelContent">
+        <table border="1" cellspacing="0" cellpadding="5">
+          <tbody>
+            <tr>
+              <td valign="top" align="right"><strong>&lt;body bgcolor=?&gt;</strong></td>
+              <td align="left" bgcolor="ffff00"><p>Устанавливает цвет фона документа, используя значение цвета в стандарте RGB - пример: FFFF00 - желтый цвет.</p></td>
+            </tr>
+            <tr>
+              <td valign="top" align="right"><strong>&lt;body text=?&gt;</strong></td>
+              <td align="left"><em>Устанавливает цвет текста документа, используя значение цвета в стандарте RGB - пример: 00ff00 - зеленый цвет.</em></td>
+            </tr>
+            <tr>
+              <td valign="top" align="right"><strong>&lt;body link=?&gt;</strong></td>
+              <td align="left"><p>Устанавливает цвет гиперссылок, используя значение цвета в стандарте RGB - пример: 00FF00 - <strong>зеленый цвет.</strong></p></td>
+            </tr>
+            <tr>
+              <td valign="top" align="right"><strong>&lt;body vlink=?&gt;</strong></td>
+              <td align="left"><p>Устанавливает цвет гиперссылок, на которыхх вы уже побывали, используя значение цвета в виде стандарте RGB - пример: 333333 - <strong>темно-серый цвет.<strong></strong></strong></p></td>
+            </tr>
+            <tr>
+              <td valign="top" align="right"><strong>&lt;body alink=?&gt;</strong></td>
+              <td align="left"><p>Устанавливает цвет гиперссылок при нажатии.</p></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+<!-- TemplateEndEditable --></div>
+<p>&nbsp; </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp; </p>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+var Accordion1 = new Spry.Widget.Accordion("Accordion1");
+var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
+var CollapsiblePanel1 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel1");
+</script>
+</body>
+</html>
