@@ -44,6 +44,8 @@ body {
 	left: 2.5%;
 	top: 22%;
 	text-align: left;
+	padding: 0px;
+	margin: 0px;
 }
 #accord {
 	height: 45%;
@@ -60,12 +62,20 @@ body {
 	height: auto;
 	width: 95%;
 	left: 2.5%;
-	top: 35%;
+	top: 45%;
 	font-family: "Courier New", Courier, monospace;
 	position: relative;
+	margin-top: 3%;
+	margin-right: 0px;
+	margin-bottom: 3%;
+	margin-left: 0px;
+	clip: auto;
 }
 
 
 .header div {
 	color: #FFF;
+}
+.head1 {
+	color: #F96;
 }
